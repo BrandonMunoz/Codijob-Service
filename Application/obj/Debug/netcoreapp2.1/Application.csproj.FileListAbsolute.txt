@@ -1,0 +1,14 @@
+E:\Back-End\CodiJobServices\CodiJobServices\Application\bin\Debug\netcoreapp2.1\Application.deps.json
+E:\Back-End\CodiJobServices\CodiJobServices\Application\bin\Debug\netcoreapp2.1\Application.dll
+E:\Back-End\CodiJobServices\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.csprojAssemblyReference.cache
+E:\Back-End\CodiJobServices\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.csproj.CoreCompileInputs.cache
+E:\Back-End\CodiJobServices\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfoInputs.cache
+E:\Back-End\CodiJobServices\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfo.cs
+E:\Back-End\CodiJobServices\CodiJobServices\Application\bin\Debug\netcoreapp2.1\Application.pdb
+E:\Back-End\CodiJobServices\CodiJobServices\Application\bin\Debug\netcoreapp2.1\CodiJobServices.dll
+E:\Back-End\CodiJobServices\CodiJobServices\Application\bin\Debug\netcoreapp2.1\CodiJobServices.pdb
+E:\Back-End\CodiJobServices\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.csproj.CopyComplete
+E:\Back-End\CodiJobServices\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.dll
+E:\Back-End\CodiJobServices\CodiJobServices\Application\obj\Debug\netcoreapp2.1\Application.pdb
+E:\Back-End\CodiJobServices\CodiJobServices\Application\bin\Debug\netcoreapp2.1\Domain.dll
+E:\Back-End\CodiJobServices\CodiJobServices\Application\bin\Debug\netcoreapp2.1\Domain.pdb

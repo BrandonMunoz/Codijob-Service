@@ -1,0 +1,14 @@
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\bin\Debug\netcoreapp2.1\CodiJobServices.deps.json
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\bin\Debug\netcoreapp2.1\CodiJobServices.runtimeconfig.json
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\bin\Debug\netcoreapp2.1\CodiJobServices.runtimeconfig.dev.json
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\bin\Debug\netcoreapp2.1\CodiJobServices.dll
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\obj\Debug\netcoreapp2.1\CodiJobServices.csprojAssemblyReference.cache
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\obj\Debug\netcoreapp2.1\CodiJobServices.csproj.CoreCompileInputs.cache
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\obj\Debug\netcoreapp2.1\CodiJobServices.RazorAssemblyInfo.cache
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\obj\Debug\netcoreapp2.1\CodiJobServices.RazorAssemblyInfo.cs
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\obj\Debug\netcoreapp2.1\CodiJobServices.AssemblyInfoInputs.cache
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\obj\Debug\netcoreapp2.1\CodiJobServices.AssemblyInfo.cs
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\obj\Debug\netcoreapp2.1\CodiJobServices.RazorTargetAssemblyInfo.cache
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\bin\Debug\netcoreapp2.1\CodiJobServices.pdb
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\obj\Debug\netcoreapp2.1\CodiJobServices.dll
+E:\Back-End\CodiJobServices\CodiJobServices\CodiJobServices\obj\Debug\netcoreapp2.1\CodiJobServices.pdb

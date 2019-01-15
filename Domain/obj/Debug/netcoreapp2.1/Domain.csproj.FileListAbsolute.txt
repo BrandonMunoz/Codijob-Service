@@ -1,0 +1,9 @@
+E:\Back-End\CodiJobServices\CodiJobServices\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+E:\Back-End\CodiJobServices\CodiJobServices\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+E:\Back-End\CodiJobServices\CodiJobServices\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+E:\Back-End\CodiJobServices\CodiJobServices\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+E:\Back-End\CodiJobServices\CodiJobServices\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Back-End\CodiJobServices\CodiJobServices\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+E:\Back-End\CodiJobServices\CodiJobServices\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+E:\Back-End\CodiJobServices\CodiJobServices\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+E:\Back-End\CodiJobServices\CodiJobServices\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
